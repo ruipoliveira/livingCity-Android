@@ -27,4 +27,4 @@ Note: XX -> latitude YY -> longitude
 ### Authors
 
 * Rui Oliveira (ruipedrooliveira@ua.pt)
-* Tomás Rodrigues
+* Tomás Rodrigues (tomasrodrigues@ua.pt)
